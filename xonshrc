@@ -1,0 +1,2 @@
+$XONSH_COLOR_STYLE='fruity'
+$PATH.append('/usr/local/bin')
